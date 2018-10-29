@@ -20,7 +20,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
-* [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
 * [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** [39:32]
 * [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** [33:46]
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** [1:06:43]
@@ -134,7 +133,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 * [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
 * [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
-* [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** [01:09:27]
 * [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** [01:18:20]
 * [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** [56:44]
 * [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** [44:12]
